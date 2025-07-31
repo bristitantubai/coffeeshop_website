@@ -1,4 +1,5 @@
 # coffeeshop_website
+This is coffee shop website demo
 
 # Introduction
 CoffeeShop Website is a responsive and interactive coffee-themed e-commerce website. This personal project allows users to order coffee online or sell premium coffee beans, all in one smooth and modern interface.
