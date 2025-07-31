@@ -21,3 +21,6 @@ This website is fully responsive and works seamlessly across all devices, includ
 
 # Purpose
 This is a personal project created to improve my front-end development skills and explore UI/UX design with a real-world concept.
+
+# Preview
+<img src="images/Preview.png" alt="">
